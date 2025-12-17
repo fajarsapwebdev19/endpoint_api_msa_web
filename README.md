@@ -1,7 +1,7 @@
 # endpoint_api_msa_web
 Endpoint api msa web
 
-# ambi data karyawan tampil 10 data dalam 1 page
+# ambil data karyawan tampil 10 data dalam 1 page
 ```
 GET https://appweb.mitrasinergi.co.id/msa/apiv1/get_karyawan
 ```
