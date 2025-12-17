@@ -31,7 +31,7 @@ GET https://appweb.mitrasinergi.co.id/msa/apiv1/get_absen/{page}/{limit}
 GET https://appweb.mitrasinergi.co.id/msa/apiv1/get_absen_karyawan/{id}
 ```
 
-# ambil data absensi berdasarkan id karyawan default 7 hari
+# ambil data absensi berdasarkan range tanggal
 ```
 GET https://appweb.mitrasinergi.co.id/msa/apiv1/get_absen_karyawan/{id}/{tanggal_awal}/{tanggal_akhir}/{page}/{limit}
 ```
